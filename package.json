@@ -1,0 +1,13 @@
+{
+  "name": "bot-marcoverde",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp Professor Marco Verde",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2"
+  }
+}
